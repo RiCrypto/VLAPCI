@@ -2,11 +2,13 @@
 Virtual Laboratory Advanced Process Control and Industry
 
 Main Author: Prof. Dr. Ricardo Augusto de Almeida.
+
 Author: Letícia Kaori Uehara.
 
 This restric area for academic research.
 
 The he vapor-compression cycle is a non-linear process, the physical system are compond by:
+
 1 Evaporator
 
 2 Compressor
