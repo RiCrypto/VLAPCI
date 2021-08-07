@@ -3,7 +3,7 @@ Virtual Laboratory Advanced Process Control and Industry
 
 Main Author: Prof. Dr. Ricardo Augusto de Almeida.
 
-Author: Letícia Kaori Uehara.
+Author: Prof. Dr. Alcino José Biazon Filho 
 
 This restric area for academic research.
 
