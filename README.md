@@ -5,6 +5,8 @@ Main Author: Prof. Dr. Ricardo Augusto de Almeida.
 
 Author: Prof. Dr. Alcino José Biazon Filho 
 
+Author: Profa. Dra. Paula Lyra Falquetto
+
 This restric area for academic research.
 
 The he vapor-compression cycle is a non-linear process, the physical system are compond by:
